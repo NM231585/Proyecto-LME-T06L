@@ -10,10 +10,10 @@
  </ul>
  <h1>Autores:</h1>
   <ul>
- <li>Jonathan Josue Segura Ramírez</li>
- <li>Michael Douglas Noyola Moz</li>
- <li>Ernesto Emanuel De Leon Garra</li>
- <li>María José Rivera Flores</li>
+ <li style="color: green;">Jonathan Josue Segura Ramírez</li>
+ <li style="color: green;">Michael Douglas Noyola Moz</li>
+ <li style="color: green;">Ernesto Emanuel De Leon Garra</li>
+ <li style="color: green;">María José Rivera Flores</li>
  </ul>
  <h1>Licencia</h1>
  <p>Este proyecto esta bajo la licencia Creative Commons Zero v1.0 Universal.</p>
