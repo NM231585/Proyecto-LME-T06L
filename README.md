@@ -19,4 +19,7 @@
  <p>Este proyecto esta bajo la licencia Creative Commons Zero v1.0 Universal.</p>
  <p>La dedicación de dominio público de Creative Commons CC0 renuncia a los intereses de derechos de autor en un trabajo que ha creado y lo dedica al dominio   público mundial. Use CC0 para optar por no recibir derechos de autor por completo y asegurarse de que su trabajo tenga el alcance más amplio. Al igual que con las licencias de software típicas y sin licencia, CC0 renuncia a las garantías. CC0 es muy similar a Unlicense.</P>
  <h1>Enlaces de interes</h1>
- 
+<ul>
+ <li>[Tablero en Trello]<a href=https://trello.com/w/proyectolmet06l>Tablero</a></li>
+ <li>[Archivo PDF en la Drive]</li>
+ <li>[Mokups]<a href=https://drive.google.com/file/d/1HZHH4BK5MWJlIdLMhhy3FyBbMG3V3xNj/view?usp=sharing>Mockusps en Drive</li>
