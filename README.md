@@ -4,6 +4,6 @@
 <br>
 <h1>Herramientas</h1>
  <ul>
-   <li>[Visual Estudio]<a href=https://code.visualstudio.com<a/> Desarrollo.</h1>
+   <li>[Visual Estudio]<a href=https://code.visualstudio.com</a> Desarrollo.</h1>
   <li>[Muqups]
     
