@@ -22,4 +22,4 @@
  <ul>
  <li>[Tablero en Trello]<a href=https://trello.com/w/proyectolmet06l>Tablero</a></li>
  <li>[Archivo PDF en Drive]<a href=https://drive.google.com/file/d/1pgDaT6tHxLiAi0TFcGTfWVxlFwNWI8FH/view?usp=sharing>Documento</a></li>
- <li>[Mockups]<a href=https://drive.google.com/file/d/1HZHH4BK5MWJlIdLMhhy3FyBbMG3V3xNj/view?usp=sharing >Mockups en Dive</a></li>
+ <li>[Mockups]<a href=https://drive.google.com/file/d/1HZHH4BK5MWJlIdLMhhy3FyBbMG3V3xNj/view?usp=sharing >Mockups en Drive</a></li>
