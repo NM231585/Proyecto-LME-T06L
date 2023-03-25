@@ -7,6 +7,7 @@
    <li>[Visual Studio Code]<a href=https://code.visualstudio.com>Desarrollo</a></li>
  <li>[Muqups]<a href=https://app.moqups.com>Creación de mockups</a></li>
  <li>[Google Drive]<a href=https://www.google.com/intl/es/drive> Almacenamiento de archivos</a></li>
+ <li>[Creately]<a href=https://app.creately.com/> Creación de Digramas UML</a></li>
  </ul>
  <h1>Autores:</h1>
   <ul>
