@@ -1,3 +1,3 @@
 # Proyecto-LME-T06L
-Repositorio en línea sobre el proyecto LME
-<h1>Hola<h1/>
+Creación de una página web con tematica de línea de tiempo sobre información de la evolución de las computaoras desde la invención del primer chip.
+<br>
