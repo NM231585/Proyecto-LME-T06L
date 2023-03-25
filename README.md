@@ -10,7 +10,7 @@
  </ul>
  <h1>Autores:</h1>
   <ul>
- <li style="color: green;">Jonathan Josue Segura Ramírez</li>
+ <li><style="color: green;">Jonathan Josue Segura Ramírez</li>
  <li style="color: green;">Michael Douglas Noyola Moz</li>
  <li style="color: green;">Ernesto Emanuel De Leon Garra</li>
  <li style="color: green;">María José Rivera Flores</li>
