@@ -8,7 +8,6 @@
  <li>[Muqups]<a href=https://app.moqups.com>Creación de mockups</a></li>
  <li>[Google Drive]<a href=https://www.google.com/intl/es/drive> Almacenamiento de archivos</a></li>
  </ul>
-<br>
  <h1>Autores:</h1>
   <ul>
  <li>Jonathan Josue Segura Ramírez</li>
@@ -16,3 +15,5 @@
  <li>Ernesto Emanuel De Leon Garra</li>
  <li>María José Rivera Flores</li>
  </ul>
+ <h1>Licencia</h1>
+ 
