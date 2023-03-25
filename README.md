@@ -16,4 +16,5 @@
  <li>María José Rivera Flores</li>
  </ul>
  <h1>Licencia</h1>
- 
+ <p>Este proyecto esta bajo la licencia Creative Commons Zero v1.0 Universal.</p>
+ <p>
