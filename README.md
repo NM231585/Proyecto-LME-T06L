@@ -1,6 +1,19 @@
 # Proyecto-LME-T06L
-<p>Creación de una página web con tematica de línea de tiempo sobre información de la evolución de las computaoras desde la invención del primer chip.</p>
+<p>Creación de una página web con tematica de línea de tiempo sobre información de la evolución de las computadoras desde la invención del primer chip.</p>
+<p>Este proyeto se ha realizado con fines educativos, cuenta con información acerca de los sucesos mostrando primeramente las fechas y nombres de dichos sucesos.</p>
 <p>Proyecto de la materaia LME404 06L de la Universidad Don Bosco.</p>
+<br>
+<h1>Manual</h1>
+<p>Primeramente debe contar con inter para hacer de uso de la línea de tiempo.
+
+ ¿Como ingresar a la linea de tiempo?
+Puede encontrar dos enlaces para ingresar a la linea de tiempo puede entrar desde el menu que esta en la parte superior y desde la página de inicio dando click en 
+ "linea de tiempo" o en "ir a la linea de tiempo".
+
+¿Cómo se usa?
+Arrastre el ratón o mouse sobre los circulos para ver las fechas y sucesos, luego dar click en "+" para poder ver más información.
+En el caso de ingresar atraves de un dispositivo movil como una tablet o un smartphon solo pulse sobre el circulo para ver la información y luego en "+" para que 
+muestre más información.</p>
 <br>
 <h1>Herramientas ⛏️ </h1>
  <ul>
