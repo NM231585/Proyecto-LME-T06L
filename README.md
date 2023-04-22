@@ -2,6 +2,9 @@
 <p>Creación de una página web con tematica de línea de tiempo sobre información de la evolución de las computadoras desde la invención del primer chip.
 Este proyeto se ha realizado con fines educativos, cuenta con información acerca de los sucesos mostrando primeramente las fechas y nombres de dichos sucesos.</p>
 <p>Proyecto de la materaia LME404 06L de la Universidad Don Bosco.</p>
+<ul>
+<li>https://shart1520.github.io/Proyecto-deLaboratorio/</li>
+</ul>
 <br>
 <h1>Manual</h1>
 <p>Debe contar con internet para hacer de uso de la línea de tiempo.
